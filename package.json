@@ -1,0 +1,29 @@
+{
+  "name": "determine_your_lunch",
+  "version": "0.0.1",
+  "description": "only for students who go to korea university in anam",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geatrigger/Determine_Your_Lunch.git"
+  },
+  "author": {
+    "name": "Kim gichan",
+    "email": "geatrigger@gmail.com"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/geatrigger/Determine_Your_Lunch/issues"
+  },
+  "homepage": "https://github.com/geatrigger/Determine_Your_Lunch#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.5.0",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0"
+  }
+}
