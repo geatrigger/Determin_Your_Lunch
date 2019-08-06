@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/geatrigger/Determine_Your_Lunch#readme",
   "dependencies": {
+    "charset": "^1.0.1",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "iconv-lite": "^0.5.0",
